@@ -71,5 +71,6 @@ Certainly! Here are the reference links from the Nuxt.js documentation that rela
 3. [Nuxt Official Documentation - showError Utility](https://nuxt.com/docs/api/utils/show-error)
 4. [Nuxt Official Documentation - useError Composable](https://nuxt.com/docs/api/composables/use-error)
 5. [Nuxt Official Documentation - clearError Utility](https://nuxt.com/docs/api/utils/clear-error)
+6. [Mastering Nuxt - Custom Error Pages in Nuxt 3]([https://nuxt.com/docs/api/utils/clear-error](https://masteringnuxt.com/blog/custom-error-pages-in-nuxt3?utm_source=drip&utm_medium=email&utm_campaign=Creating%20Custom%20Error%20Pages%20in%20Nuxt%203))
 
 These links will provide you with more detailed information about each aspect of error handling in a Nuxt.js project, including examples, utilities, and composables provided by Nuxt.js for effective error management.
