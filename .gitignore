@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+
+package-lock.json
+packages/*/README.md
+packages/*/LICENSE
+*/**/yarn.lock
+/.yarn
+
+# Logs
+*.log
+
+# Temp directories
+.temp
+.tmp
+.cache
+
+# Generated dirs
+dist
+.nuxt
+.nuxt-*
+.vercel
+.netlify
+.output
+.output-*
+.gen
+
+
+
+
