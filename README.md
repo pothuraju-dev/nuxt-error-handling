@@ -23,7 +23,7 @@ This project showcases how to handle errors in different scenarios within a Nuxt
 
 - `server/middleware/error.ts`: This server middleware demonstrates handling errors on the server side. It throws an error when a specific query parameter is present.
 
-- `pages/error.vue`: This is a custom error page that displays error information and provides options to clear the error or navigate to other routes.
+- `error.vue`: This is a custom error page that displays error information and provides options to clear the error or navigate to other routes.
 
 - `layouts/default.vue`: This layout wraps the content of each page.
 
@@ -56,7 +56,7 @@ The `server/middleware/error.ts` server middleware throws an error on the server
 
 ## Custom Error Page
 
-The `pages/error.vue` page serves as a custom error page that displays error information and provides options to clear the error or navigate to other routes. To see this in action:
+The `error.vue` page serves as a custom error page that displays error information and provides options to clear the error or navigate to other routes. To see this in action:
 
 1. Run the project using `npm run dev`.
 2. Trigger errors by interacting with the app or navigating to routes with error conditions.
